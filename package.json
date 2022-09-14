@@ -1,7 +1,7 @@
 {
   "name": "human-rights",
   "version": "1.4.1",
-  "description": "A curated, cited, open-source collection of human rights",
+  "description": "A curated, open-source collection of human rights",
   "scripts": {
     "clean": "rimraf dist .twelvety.cache",
     "build": "cross-env ELEVENTY_ENV=production eleventy",

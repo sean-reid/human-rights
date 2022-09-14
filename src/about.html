@@ -1,26 +1,21 @@
-<!--
-  Templates can look very similar to components (like header.html) with the HTML at the top and the
-  corresponding 'stylesheet' and 'javascript' paired shortcodes below.
--->
-
-<main class="home">
-  <article class="home__content">
+<main class="about">
+  <h1 class="about__title">The Ultimate Human Rights Reference</h1>
+  <article class="about__content">
     <!--
       Include Markdown using the 'markdown' paired shortcode. Make sure that you strip whitespace
       (notice the hyphens in the opening and closing tag).
     -->
     {% markdown -%}
-      {% include 'home_content.md' %}
+      {% include 'about_content.md' %}
     {%- endmarkdown %}
   </article>
 </main>
-
 
 {% stylesheet 'scss' %}
   // Import sass from your styles directory
   @import "mixins";
 
-  .home {
+  .about {
     @include container;
 
     margin-bottom: 4rem;
@@ -42,7 +37,3 @@
     }
   }
 {% endstylesheet %}
-
-{% javascript %}
-  console.log("Super fast 💨");
-{% endjavascript %}
