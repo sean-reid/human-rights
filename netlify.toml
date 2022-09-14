@@ -1,0 +1,5 @@
+# This file tells Netlify how to build human-rights
+
+[build]
+  command = "npm run build"
+  publish = "dist"
