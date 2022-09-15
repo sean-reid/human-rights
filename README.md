@@ -1,6 +1,8 @@
 # My Human Rights
 
-See the curated, open source list [here](myhumanrights.net).
+See the curated, open source list <a href="http://myhumanrights.net" target="_blank">here</a>
+
+
 
 My human rights are your human rights! I encourage everyone to contribute to this ever-growing source of truth for social good.
 
