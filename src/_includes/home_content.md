@@ -64,7 +64,7 @@ Everyone has the right to a nationality.
 
 # Marriage
 
-Without any limitation due to gender, sexual preference, race, nationality, religion, or any other status, all have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution.
+Without any limitation due to gender, sexual orientation, race, nationality, religion, or any other status, all have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution.
 
 # Belief
 
